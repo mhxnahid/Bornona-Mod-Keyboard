@@ -1,0 +1,11 @@
+<variant>
+  <configItem>
+    <name>ben_bornona_mod</name>
+    <description>Bangla (Bornona Mod)</description>
+    <languageList>
+      <iso639Id>ben</iso639Id>
+      <!-- sat-Beng: http://www.ethnologue.com/language/sat -->
+      <iso639Id>sat</iso639Id>
+    </languageList>
+  </configItem>
+</variant>
