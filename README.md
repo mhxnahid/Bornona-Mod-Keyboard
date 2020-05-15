@@ -1,15 +1,11 @@
 # Bornona-Mod-Keyboard
 Keyboard layout for x11/linux desktop - modified bornona layout
 
-`/usr/share/X11/xkb/symbols/in`
+Add custom keyboard layout to `/usr/share/X11/xkb/symbols/in` (DO NOT REPLACE THE FILE)
 
-Add custom keyboard layout.
+Add evdev.xml contents to `/usr/share/X11/xkb/rules/evdev.xml` (DO NOT REPLACE THE FILE)
 
-`/usr/share/X11/xkb/rules/evdev.xml`
-
-Add (DO NOT REPLACE THE FILE) new layout XML
-
-Logout and Add Layout. India>Bronona Mod
+Re-login and search for ``Input Sources``. Add new Layout `Bronona Mod`
 
 ## Layout (qwerty)
 ```
