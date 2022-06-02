@@ -26,4 +26,4 @@ Bengali numerals are in the numpad. You have to use a full featured keyboard.
 `Numvowel` avrolayout in windows supports AltGr number keys.
 
 ### Quirks
-In linux gnome, chrome based apps have conflict in numpad keys
+In linux gnome, chrome based apps have conflict in numpad keys, use SHIFT+NumKey
