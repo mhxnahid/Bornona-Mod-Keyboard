@@ -55,16 +55,16 @@
   key <AB10> { [   slash,  question	] };
   key <BKSL> { [   0x100098B,  0x10009F0	] };
   
-   key <KP0> { [   0x10009E6	] };
-   key <KP1> { [   0x10009E7	] };
-   key <KP2> { [   0x10009E8	] };
-   key <KP3> { [   0x10009E9	] };
-   key <KP4> { [   0x10009EA	] };
-   key <KP5> { [   0x10009EB	] };
-   key <KP6> { [   0x10009EC	] };
-   key <KP7> { [   0x10009ED	] };
-   key <KP8> { [   0x10009EE	] };
-   key <KP9> { [   0x10009EF	] };
+   key <KP0> { [   0, 0x10009E6	] };
+   key <KP1> { [   1, 0x10009E7	] };
+   key <KP2> { [   2, 0x10009E8	] };
+   key <KP3> { [   3, 0x10009E9	] };
+   key <KP4> { [   4, 0x10009EA	] };
+   key <KP5> { [   5, 0x10009EB	] };
+   key <KP6> { [   6, 0x10009EC	] };
+   key <KP7> { [   7, 0x10009ED	] };
+   key <KP8> { [   8, 0x10009EE	] };
+   key <KP9> { [   9, 0x10009EF	] };
 
 //   key <LCTL> { [   Control_L              ] };
 //   key <SPCE> { [   space                  ] };
